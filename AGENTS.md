@@ -28,3 +28,5 @@
 ## Data & Plotting Notes
 - Sanitize proprietary inputs before committing sample CSVs; prefer anonymised, trimmed datasets under `data/` when sharing.
 - When exporting figures, embed parameters in filenames (`plots/deltas_show-rolling_1k.png`) to aid reproducibility.
+
+
